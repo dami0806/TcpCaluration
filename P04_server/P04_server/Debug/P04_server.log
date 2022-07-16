@@ -1,0 +1,6 @@
+﻿  tcp_server.c
+C:\Users\dami0\Desktop\TcpCalcuration\P04_server\P04_server\tcp_server.c(53,4): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+C:\Users\dami0\Desktop\TcpCalcuration\P04_server\P04_server\tcp_server.c(13,20): warning C4101: 'hClntSock' :참조되지 않은 지역 변수입니다.
+C:\Users\dami0\Desktop\TcpCalcuration\P04_server\P04_server\tcp_server.c(39,14): warning C4101: 'rcvTotal' :참조되지 않은 지역 변수입니다.
+C:\Users\dami0\Desktop\TcpCalcuration\P04_server\P04_server\tcp_server.c(39,6): warning C4101: 'rcvSum' :참조되지 않은 지역 변수입니다.
+  P04_server.vcxproj -> C:\Users\dami0\Desktop\TcpCalcuration\P04_server\Debug\P04_server.exe
